@@ -1,0 +1,53 @@
+{
+    "name": "SOLMONKS #77",
+    "symbol": "SOLMONKS",
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://monksonsolana.com/solmonks/77",
+    "image": "76.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Skins",
+            "value": "Neon-Leopard"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sad"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Eyebrow",
+            "value": "None"
+        }
+    ],
+    "collection": {
+        "name": "500x500 test 1",
+        "family": "Monks on Solana"
+    },
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "76.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "8nVfVQbq1oba6A6gKW569gwAkkgsBCi1erYzRJNqYmaL",
+                "share": 100
+            }
+        ]
+    }
+}

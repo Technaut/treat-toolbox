@@ -1,0 +1,61 @@
+{
+    "name": "SOLMONKS #68",
+    "symbol": "SOLMONKS",
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://monksonsolana.com/solmonks/68",
+    "image": "67.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ocean-Blue"
+        },
+        {
+            "trait_type": "Skins",
+            "value": "Brown-Monk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Diamond-Teeth"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Aviator"
+        },
+        {
+            "trait_type": "Eyebrow",
+            "value": "10"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Diamond-Stud"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mohawk-Titanium"
+        }
+    ],
+    "collection": {
+        "name": "500x500 test 1",
+        "family": "Monks on Solana"
+    },
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "67.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "8nVfVQbq1oba6A6gKW569gwAkkgsBCi1erYzRJNqYmaL",
+                "share": 100
+            }
+        ]
+    }
+}
