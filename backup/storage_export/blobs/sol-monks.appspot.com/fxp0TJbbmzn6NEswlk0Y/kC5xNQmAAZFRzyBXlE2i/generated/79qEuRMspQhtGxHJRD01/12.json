@@ -1,0 +1,41 @@
+{
+    "name": "SOLMONKS #13",
+    "symbol": "SOLMONKS",
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://monksonsolana.com/solmonks/13",
+    "image": "12.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Solana-Blue-to-Purple"
+        },
+        {
+            "trait_type": "Skins",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Normal"
+        }
+    ],
+    "collection": {
+        "name": "500x500 test 1",
+        "family": "Monks on Solana"
+    },
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "12.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "8nVfVQbq1oba6A6gKW569gwAkkgsBCi1erYzRJNqYmaL",
+                "share": 100
+            }
+        ]
+    }
+}

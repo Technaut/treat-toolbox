@@ -1,0 +1,19 @@
+{
+  "name": "fxp0TJbbmzn6NEswlk0Y/kC5xNQmAAZFRzyBXlE2i/generated/79qEuRMspQhtGxHJRD01/33.json",
+  "bucket": "sol-monks.appspot.com",
+  "contentType": "application/octet-stream",
+  "metageneration": 1,
+  "generation": 1636024590297,
+  "storageClass": "STANDARD",
+  "etag": "someETag",
+  "contentDisposition": "inline",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "bc1c9e91-16c5-44cf-ab74-6a5f929da463"
+  ],
+  "timeCreated": "2021-11-04T11:16:30.296Z",
+  "updated": "2021-11-04T11:16:30.296Z",
+  "size": 939,
+  "md5Hash": "syzPUiLR9BBC0YvwYfNg7Q==",
+  "crc32c": "1823472971"
+}
