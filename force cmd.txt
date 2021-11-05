@@ -1,1 +1,8 @@
+npm install --prefix=functions
+npm run build --prefix=functions
+firebase emulators:start --import backup --export-on-exit backup
+
+npm install
+npm run dev
+
 firebase emulators:export backup
